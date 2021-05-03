@@ -1,4 +1,4 @@
-# paper-implementations  
+# Paper Implementations  
 
 - The repository contains the implementation of Research Papers and my Notes on them.
 - The entire code has been written in PyTorch.
