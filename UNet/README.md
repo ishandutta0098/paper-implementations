@@ -1,3 +1,5 @@
+[Paper Link](https://arxiv.org/pdf/1505.04597.pdf)
+
 ## Network Architecture
 <p align="center">
   <img src = "https://github.com/ishandutta0098/paper-implementations/blob/main/UNet/images/Figure-1.png"/>
@@ -19,3 +21,6 @@ feature map from the contracting path, and two 3x3 convolutions, each followed b
 
 To allow a seamless tiling of the output segmentation map (see Figure 2), it is important to select the input tile size such that all 2x2 max-pooling operations
 are applied to a layer with an even x- and y-size.
+
+## References
+[Implementing original U-Net from scratch using PyTorch](https://www.youtube.com/watch?v=u1loyDCoGbE&t=452s)
