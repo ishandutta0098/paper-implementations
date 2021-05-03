@@ -1,6 +1,6 @@
 ## Network Architecture
 
-<img src = "https://github.com/ishandutta0098/paper-implementations/blob/main/UNet/images/Figure-1.png" width = 500 height = 500 class = "center"/>
+<center><img src = "https://github.com/ishandutta0098/paper-implementations/blob/main/UNet/images/Figure-1.png" width = 500 height = 500/></center>
 
 - The network architecture is illustrated in Figure 1. It consists of a contracting path (left side) and an expansive path (right side). The contracting path follows
 the typical architecture of a convolutional network. 
@@ -12,7 +12,7 @@ feature map from the contracting path, and two 3x3 convolutions, each followed b
 - At the final layer a 1x1 convolution is used to map each 64-component feature vector to the desired number of classes. 
 - In total the network has 23 convolutional layers.
   
-<img src = "https://github.com/ishandutta0098/paper-implementations/blob/main/UNet/images/Figure-2.png"  width = 500 height = 500 class = "center"/>
+<center><img src = "https://github.com/ishandutta0098/paper-implementations/blob/main/UNet/images/Figure-2.png"  width = 500 height = 500/></center>
 
 To allow a seamless tiling of the output segmentation map (see Figure 2), it is important to select the input tile size such that all 2x2 max-pooling operations
 are applied to a layer with an even x- and y-size.
