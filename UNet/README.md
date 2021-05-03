@@ -1,4 +1,4 @@
-[Paper Link](https://arxiv.org/pdf/1505.04597.pdf)
+[**Paper**](https://arxiv.org/pdf/1505.04597.pdf)
 
 ## Network Architecture
 <p align="center">
