@@ -1,7 +1,6 @@
 # paper-implementations  
 
 Implementation of Research Papers and Notes on Them
----
 
 # Index
 [1] **UNet**
