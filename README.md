@@ -1,6 +1,7 @@
 # paper-implementations  
 
-Implementation of Research Papers and Notes on Them
+- The repository contains the implementation of Research Papers and my Notes on them.
+- The entire code has been written in PyTorch.
 
 # Index
 [1] **UNet**
