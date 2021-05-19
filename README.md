@@ -9,3 +9,6 @@
 
 [2] [**VGG**](https://github.com/ishandutta0098/paper-implementations/tree/main/Architectures/VGG)
 - Karen Simonyan & Andrew Zisserman "Very Deep Convolutional Networks for Large-Scale Image Recognition" [Paper](https://arxiv.org/abs/1409.1556)
+
+[3] [**Transformers**](https://github.com/ishandutta0098/paper-implementations/tree/main/Architectures/Transformers)
+- Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin "Attention is All You Need" [Paper](https://arxiv.org/abs/1706.03762)
